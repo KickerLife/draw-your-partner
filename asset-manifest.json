@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/draw-your-partner/static/css/main.beafee2f.css",
+    "main.js": "/draw-your-partner/static/js/main.3f75958c.js",
+    "static/js/453.cc0ec326.chunk.js": "/draw-your-partner/static/js/453.cc0ec326.chunk.js",
+    "index.html": "/draw-your-partner/index.html",
+    "main.beafee2f.css.map": "/draw-your-partner/static/css/main.beafee2f.css.map",
+    "main.3f75958c.js.map": "/draw-your-partner/static/js/main.3f75958c.js.map",
+    "453.cc0ec326.chunk.js.map": "/draw-your-partner/static/js/453.cc0ec326.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.beafee2f.css",
+    "static/js/main.3f75958c.js"
+  ]
+}
